@@ -1,0 +1,24 @@
+{
+  "name": "business_card",
+  "version": "1.0.0",
+  "description": "Meu cartão de visitas!",
+  "main": "cli.js",
+  "bin": "./cli.js", 
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "business_card"
+  },
+  "keywords": [
+    "cartão",
+    "de",
+    "visitas"
+  ],
+  "author": "Alan C Santana",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
